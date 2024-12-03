@@ -66,7 +66,7 @@ sayHi("Ope");
 sayHi("Wale");
 sayHi("Bola");
 sayHi("Jude");
-sayHi("When");
+sayHi("Loveth");
 sayHi("Rice");
 
 
