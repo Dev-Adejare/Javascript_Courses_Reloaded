@@ -62,7 +62,7 @@ function sayHi(name) {
     console.log(`Hello ${name}`);
 }
 
-sayHi("Quadri");
+sayHi("Ope");
 sayHi("Supreme");
 sayHi("Bola");
 sayHi("Jude");
