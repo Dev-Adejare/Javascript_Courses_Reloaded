@@ -88,7 +88,7 @@ const someFunction2 = () => {
   console.log(name);
 };
 const anotherFunction1 = () => {
-  const name = "Kanas";
+  const name = "Kanaz";
   console.log(name);
 };
 
