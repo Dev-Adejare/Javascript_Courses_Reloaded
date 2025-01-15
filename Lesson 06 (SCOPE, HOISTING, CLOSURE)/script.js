@@ -37,7 +37,7 @@ const logName = () => {
 logName();
 
 //************ ANOTHER EXAMPLE (ADVANTAGES)
-const name3 = "Kanaz";
+const name3 = "Kenny";
 const globalScope = () => {
   console.log(name3);
 };
@@ -54,7 +54,7 @@ let name4 = "Rocco";
 
 const logName1 = () => {
   console.log(name4);
-  name4 = "Muhammed";
+  name4 = "Kay";
 };
 
 logName1();
