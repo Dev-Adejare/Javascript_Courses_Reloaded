@@ -87,7 +87,7 @@ const index = hobbies.indexOf('javaScript');
 console.log(index);
 
 // 2. LASTINDEXOF()
-const sentence = 'I am hungry,I need to eat eat';
+const sentence = 'I am hungry, I need to eat eat';
 const lastInd = sentence.lastIndexOf('eat');
 console.log(lastInd);
 
@@ -105,7 +105,7 @@ const cohorts = "Supreme, Kenny, Rokeeb and Kanas";
 console.log(cohorts.endsWith('Kanas'));
 
 // CLASS WORK 
-const guestList = "Ade, Ola, Rocco, Muhammed, Supreme, Kenny"
+const guestList = "Ade, soliu, Rocco, Muhammed, Supreme, Kenny"
 
 const guestLength = guestList.length;
 const UpperGuestList = guestList.toUpperCase();
@@ -115,7 +115,7 @@ console.log(UpperGuestList);
 
 // SUBSTRING
 // 6. SLICE()
-const exampleString = 'hotdog';
+const exampleString = 'Hotdog';
 console.log(exampleString.slice(0,3));
 console.log(exampleString.slice(3));
 console.log(exampleString.slice(-1));
