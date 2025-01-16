@@ -120,7 +120,7 @@ console.log(exampleString.slice(0,3));
 console.log(exampleString.slice(3));
 console.log(exampleString.slice(-1));
 
-const exampleString1 = 'pineapple';
+const exampleString1 = 'Pineapple';
 console.log(exampleString1.slice(0,4));
 console.log(exampleString1.slice(4));
 
@@ -152,9 +152,9 @@ const str = '       @examplegmail.com     '
 console.log(str.trim());
 
 
-// *******************CLASSWORK
+// *******************CLASSWORK************
 
-const footballTeam = 'Chelsea, Aresenal, Manchester United, Liverpool, Real Madrid';
+const footballTeam = 'Chelsea, Arsenal, Manchester United, Liverpool, Real Madrid';
 const reverse1 = footballTeam.split(', ').reverse().join(', ');
 console.log(reverse1);
 
