@@ -58,7 +58,7 @@ console.log(greeting2);
 
 // ****************STRING LENGTH *******************
 //Returns the length of a string
-const name = 'Khadijah Musa, Alimi Muaz';
+const name = 'Dhija Musa, Alimi Muaz';
 console.log(name.length);
 
 //USING POSITION OF CHAR 
