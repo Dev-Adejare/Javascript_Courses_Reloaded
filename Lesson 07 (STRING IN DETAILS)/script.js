@@ -87,7 +87,7 @@ const index = hobbies.indexOf('javaScript');
 console.log(index);
 
 // 2. LASTINDEXOF()
-const sentence = 'I am hungry, I need to eat eat';
+const sentence = 'I am hungry,I need to eat eat';
 const lastInd = sentence.lastIndexOf('eat');
 console.log(lastInd);
 
