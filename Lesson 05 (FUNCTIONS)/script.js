@@ -63,7 +63,7 @@ function sayHi(name) {
 }
 
 sayHi("Ola");
-sayHi("Wale");
+sayHi("Ola");
 sayHi("Bola");
 sayHi("Jude");
 sayHi("Loveth");
